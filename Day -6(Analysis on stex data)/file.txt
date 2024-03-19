@@ -1,0 +1,4 @@
+name,class,roll,gpa
+ram,12,45678,4.5
+sita,9,2345,5.8
+hari,10,618801,2.3
